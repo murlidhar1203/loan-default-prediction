@@ -1,0 +1,11 @@
+Model: LogisticRegression {'model__C': 0.1}
+Test ROC-AUC: 0.792
+
+              precision    recall  f1-score   support
+
+  No default       0.88      0.71      0.79       445
+     Default       0.46      0.72      0.56       155
+
+    accuracy                           0.71       600
+   macro avg       0.67      0.71      0.67       600
+weighted avg       0.77      0.71      0.73       600
